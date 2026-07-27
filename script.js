@@ -636,7 +636,7 @@ function countdownScene() {
     '<div class="glass-card">',
     BRAND_LOGO_SVG,
     '<h1 class="hero-name" style="font-size:clamp(2rem, 4.5vw, 3.6rem); cursor:pointer;">This Is My Heart, In A Different Form 💓</h1>',
-    '<p class="hero-title">The Gift I Couldn\'t Wrap</p>',
+    '<p class="hero-title">Just a Few Moments Left Until Your Special Day ⭐</p>',
     '<div class="timer-grid">',
     '<div class="timeCard"><span id="days">00</span><p>Days</p></div>',
     '<div class="timeCard"><span id="hours">00</span><p>Hours</p></div>',
